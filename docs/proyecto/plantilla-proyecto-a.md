@@ -72,6 +72,10 @@ Un estudiante de FP, de 27 años, que hace un ciclo a distancia. Abre la app cad
 
 > Dibuja las pantallas principales. A mano y fotografiado es válido.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
+> 
+![Bocetos 1.jpeg](../res/Bocetos%201.jpeg)
+
+![Bocetos 2.jpeg](../res/Bocetos%202.jpeg)
 
 ---
 
