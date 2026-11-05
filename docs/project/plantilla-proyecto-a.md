@@ -73,10 +73,11 @@ Un estudiante de FP, de 27 años, que hace un ciclo a distancia. Abre la app cad
 > Dibuja las pantallas principales. A mano y fotografiado es válido.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
 > 
-![Bocetos 1.jpeg](../res/Bocetos%201.jpeg)
+![1 y 2. Pantallas de Inicio y Resumen sesion.jpeg](../desing/wireframes/1%20y%202.%20Pantallas%20de%20Inicio%20y%20Resumen%20sesion.jpeg)
 
-![Bocetos 2.jpeg](../res/Bocetos%202.jpeg)
+![3 y 4. Pantalla Historial y Perfil.jpeg](../desing/wireframes/3%20y%204.%20Pantalla%20Historial%20y%20Perfil.jpeg)
 
+![5.Pantalla de detalle de historial.jpg](../desing/wireframes/5.Pantalla%20de%20detalle%20de%20historial.jpg)
 ---
 
 ## 7 · Qué datos guarda la app
